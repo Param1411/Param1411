@@ -10,11 +10,9 @@ My name is Param Bhatkar, and I'm a second-year engineering student currently ex
 
 ## Skills
 
-- **Web Development:** HTML, CSS, JavaScript, etc.
+- **Web Development:** basics of  HTML, CSS, JavaScript, etc.
 - **Internet of Things (IoT):** Arduino, ESP8266, Thingspeak, etc.
-- **Machine Learning:** Currently learning and exploring ML techniques.
-- **Artificial Intelligence:** Exploring AI concepts and applications.
-
+  
 ## Projects
 
 ### Smart India Hackathon 2023 - PSID-1368 (Finalist)
