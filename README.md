@@ -10,7 +10,7 @@ My name is Param Bhatkar, and I'm a second-year engineering student currently ex
 
 ## Skills
 
-- **Web Development:** basics of  HTML, CSS, JavaScript, etc.
+- **Web Development:** basics of  HTML, CSS, Python.
 - **Internet of Things (IoT):** Arduino, ESP8266, Thingspeak, etc.
   
 ## Projects
